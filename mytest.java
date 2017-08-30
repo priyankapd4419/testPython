@@ -1,3 +1,15 @@
+
+B
+C
+C
+C
+C
+C
+B
+B
+B
+
+C
 package deadlocks;
 
 class Account {
